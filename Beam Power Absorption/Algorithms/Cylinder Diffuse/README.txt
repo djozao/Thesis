@@ -1,0 +1,7 @@
+- run main absorption with the selected node setup desired to calculate the % absorbed with a parametric sweep
+top surface = the one which has the aperture
+
+- "cylinder_fem_absorbed" calculates the % that is absorbed for a certain geometry
+- "Gebhart_3D_cylinder" calculates the B_ij matrix for a certain geometry
+- "Fraction_power_matrix_3D_cylinder" calculates how much % of the incoming power hits a certain node region
+
